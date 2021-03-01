@@ -7,4 +7,4 @@ I scraped every standard game (as of 28/2/2021) on playdiplomacy.com; here's the
 
 # Results
 
-![](img/chart.svg)
+[![](img/chart.svg)](https://docs.google.com/spreadsheets/d/1ly2ZNI3dyMGDnY0YTsxezdPNtWYugpTxTfrSXItgpbY/edit?usp=sharing)
